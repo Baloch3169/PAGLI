@@ -37,7 +37,7 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Baloch 
+    BALOCHNI
     ____          _               _                    _ 
 |  _ \        | |             | |                  (_)
 | |_) |  __ _ | |  ___    ___ | |__    __ _  _ __   _ 
@@ -46,16 +46,17 @@ logo = """
 |____/  \__,_||_| \___/  \___||_| |_| \__,_||_| |_||_|
                                                       
                                                       
-   THE ANONYMOUS BALOCH tricker 
-   THE POPULAR BALOCH 
-   THE BAZI GHAR BALOCH 
-      BALOCH PAKISTANI
-           BALOCH
+
+   THE ANONYMOUS PAGLI BALOCH
+   THE POPULAR PAGLI
+   THE BAZI GHAR PAGLI BALOCH 
+       PAGLI PAKISTANI
+          BALOCH
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92baloch
-\033[1;96mYouTube \033[1;93m: \033[1;92baloch
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Baloch3169
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/Sharif Larka
+\033[1;96mAuthor  \033[1;93m: \033[1;92mshani
+\033[1;96mYouTube \033[1;93m: \033[1;92mshaniustad
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/shani
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -73,14 +74,14 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92baloch
-\033[1;96mYouTube \033[1;93m: \033[1;92baloch
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Baloch3169
-\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/Sharif Larka 
+\033[1;96mAuthor  \033[1;93m: \033[1;92mshani
+\033[1;96mYouTube \033[1;93m: \033[1;92mshaniustad
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/shani
+\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
-CorrectUsername = Baloch3169
-CorrectPassword = Iqbal3169
+CorrectUsername = SHANI 
+CorrectPassword = SHANI123
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
@@ -94,7 +95,7 @@ while (loop == 'true'):
             os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/Sharif larka')
+        os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
 def login():
 	os.system('clear')
 	try:
@@ -398,4 +399,4 @@ def pilih_super():
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 if __name__ == '__main__':
-	login()
+	login(
